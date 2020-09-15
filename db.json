@@ -5,7 +5,7 @@
       "address": "297 Totsuki Academy",
       "city": "Totsuki",
       "state": "JP",
-      "rooms": 3,
+      "bedrooms": 3,
       "price": 3000,
       "floorSpace": 140,
       "extras": [
@@ -21,7 +21,7 @@
       "address": "12 St Marguerite Academy",
       "city": "Sauville",
       "state": "JP",
-      "rooms": 5,
+      "bedrooms": 5,
       "price": 3000,
       "floorSpace": 150,
       "extras": [
@@ -37,7 +37,7 @@
       "address": "183 Spirited Away",
       "city": "Aburaya",
       "state": "JP",
-      "rooms": 2,
+      "bedrooms": 2,
       "price": 700,
       "floorSpace": 110,
       "extras": [
@@ -53,7 +53,7 @@
       "address": "1855 Kiki Cottage",
       "city": "Majo",
       "state": "JP",
-      "rooms": 2,
+      "bedrooms": 2,
       "price": 400,
       "floorSpace": 90,
       "extras": [
@@ -67,7 +67,7 @@
       "address": "135 xxxHolic Way",
       "city": "Yuuko",
       "state": "JP",
-      "rooms": 3,
+      "bedrooms": 3,
       "price": 800,
       "floorSpace": 123,
       "extras": [
@@ -81,7 +81,7 @@
       "address": "162 Chitanda Ave",
       "city": "Eru",
       "state": "JP",
-      "rooms": 2,
+      "bedrooms": 2,
       "price": 400,
       "floorSpace": 96,
       "extras": [
@@ -94,7 +94,7 @@
       "address": "1764 Rockbell Auto St",
       "city": "Pinako",
       "state": "JP",
-      "rooms": 6,
+      "bedrooms": 6,
       "price": 970,
       "floorSpace": 105,
       "extras": [
@@ -108,7 +108,7 @@
       "address": "140 Amasawa St",
       "city": "Seiji",
       "state": "JP",
-      "rooms": 3,
+      "bedrooms": 3,
       "price": 480,
       "floorSpace": 105,
       "extras": [
@@ -122,7 +122,7 @@
       "address": "158 Glassdoor",
       "city": "Touko",
       "state": "JP",
-      "rooms": 6,
+      "bedrooms": 6,
       "price": 2000,
       "floorSpace": 140,
       "extras": [
@@ -137,7 +137,7 @@
       "address": "19 Inyuasha Way",
       "city": "Kagome",
       "state": "JP",
-      "rooms": 4,
+      "bedrooms": 4,
       "price": 700,
       "floorSpace": 100,
       "extras": [
@@ -151,7 +151,7 @@
       "address": "148 Citrus Turn",
       "city": "Cytro",
       "state": "JP",
-      "rooms": 4,
+      "bedrooms": 4,
       "price": 800,
       "floorSpace": 96,
       "extras": [
@@ -165,7 +165,7 @@
       "address": "1723 Haruhi St",
       "city": "Suzumiya",
       "state": "JP",
-      "rooms": 5,
+      "bedrooms": 5,
       "price": 1000,
       "floorSpace": 112,
       "extras": [
