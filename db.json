@@ -1,162 +1,188 @@
 {
-  "address": "297 Totsuki Academy",
-  "city": "Totsuki",
-  "state": "JP",
-  "rooms": 3,
-  "price": 3000,
-  "floorSpace": 140,
-  "extras": [
-    "elevator",
-    "basement",
-    "gym"
-  ],
-  "homeType": "Academy",
-  "image": "https://www.architectureanddesign.com.au/getmedia/7c221a0e-268b-427f-a164-95dc5a81b7a4/nara-yakushiji-temple-nara-133902.aspx?width=888&height=666&ext=.jpg"
-},
-{
-  "address": "12 St Marguerite Academy",
-  "city": "Sauville",
-  "state": "JP",
-  "rooms": 5,
-  "price": 3000,
-  "floorSpace": 150,
-  "extras": [
-    "elevator",
-    "pool",
-    "basement"
-  ],
-  "homeType": "Academy",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Metropolitan_police_academy_fuchu_tokyo_japan_2009.JPG"
-},
-{
-  "address": "183 Spirited Away",
-  "city": "Aburaya",
-  "state": "JP",
-  "rooms": 2,
-  "price": 700,
-  "floorSpace": 110,
-  "extras": [
-    "pool",
-    "basement",
-    "gym"
-  ],
-  "homeType": "Bathhouse",
-  "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450834169-9467e5eab1e9ede6a45cb83abf41ab56.jpeg"
-},
-{
-  "address": "1855 Kiki Cottage",
-  "city": "Majo",
-  "state": "JP",
-  "rooms": 2,
-  "price": 400,
-  "floorSpace": 90,
-  "extras": [
-    "basement"
-  ],
-  "homeType": "Cottage",
-  "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450839009-f9bf204c664b0498f9d288b9857f071d.jpeg"
-},
-{
-  "address": "135 xxxHolic Way",
-  "city": "Yuuko",
-  "state": "JP",
-  "rooms": 3,
-  "price": 800,
-  "floorSpace": 123,
-  "extras": [
-    "basement"
-  ],
-  "homeType": "Shop",
-  "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450940288-80469f704b429404d66a71f5be399040.png"
-},
-{
-  "address": "162 Chitanda Ave",
-  "city": "Eru",
-  "state": "JP",
-  "rooms": 2,
-  "price": 400,
-  "floorSpace": 96,
-  "extras": [
-  ],
-  "homeType": "House",
-  "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450941930-690b05ff8d78c35d868de36d63812b99.jpeg"
-},
-{
-  "address": "1764 Rockbell Auto St",
-  "city": "Pinako",
-  "state": "JP",
-  "rooms": 6,
-  "price": 970,
-  "floorSpace": 105,
-  "extras": [
-    "basement"
-  ],
-  "homeType": "House",
-  "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450943087-a35fa949ae29d1bc78eca3d772be4fbd.png"
-},
-{
-  "address": "140 Amasawa St",
-  "city": "Seiji",
-  "state": "JP",
-  "rooms": 3,
-  "price": 480,
-  "floorSpace": 105,
-  "extras": [
-    "basement"
-  ],
-  "homeType": "Shop",
-  "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450943884-eaf35084206bdd4166a9b3f028d939d6.jpeg"
-},
-{
-  "address": "158 Glassdoor",
-  "city": "Touko",
-  "state": "JP",
-  "rooms": 6,
-  "price": 2000,
-  "floorSpace": 140,
-  "extras": [
-    "basement",
-    "gym"
-  ],
-  "homeType": "House",
-  "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1451293535-b7f363fa77cbae4e9e0c62c4b97c41a8.png"
-},
-{
-  "address": "19 Inyuasha Way",
-  "city": "Kagome",
-  "state": "JP",
-  "rooms": 4,
-  "price": 700,
-  "floorSpace": 100,
-  "extras": [
-    "basement"
-  ],
-  "homeType": "House",
-  "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1451296115-fdb0f16b456b55fc59e835de7732fe5d.jpeg"
-},
-{
-  "address": "148 Citrus Turn",
-  "city": "Cytro",
-  "state": "JP",
-  "rooms": 4,
-  "price": 800,
-  "floorSpace": 96,
-  "extras": [
-    "basement"
-  ],
-  "homeType": "House",
-  "image": "https://resources.realestate.co.jp/wp-content/uploads/2018/04/Abandoned-House-in-Japan-850x500.jpg"
-},
-{
-  "address": "1723 Haruhi St",
-  "city": "Suzumiya",
-  "state": "JP",
-  "rooms": 5,
-  "price": 1000,
-  "floorSpace": 112,
-  "extras": [
-    "basement"
-  ],
-  "homeType": "House",
-  "image": "https://resources.realestate.co.jp/wp-content/uploads/2016/06/New-House-Japan-1-1020x500.jpg"
+  "data": [
+    {
+      "id": 1,
+      "address": "297 Totsuki Academy",
+      "city": "Totsuki",
+      "state": "JP",
+      "rooms": 3,
+      "price": 3000,
+      "floorSpace": 140,
+      "extras": [
+        "elevator",
+        "basement",
+        "gym"
+      ],
+      "homeType": "Academy"
+      "image": "https://www.architectureanddesign.com.au/getmedia/7c221a0e-268b-427f-a164-95dc5a81b7a4/nara-yakushiji-temple-nara-133902.aspx?width=888&height=666&ext=.jpg"
+    },
+    {
+      "id": 2,
+      "address": "12 St Marguerite Academy",
+      "city": "Sauville",
+      "state": "JP",
+      "rooms": 5,
+      "price": 3000,
+      "floorSpace": 150,
+      "extras": [
+        "elevator",
+        "pool",
+        "basement"
+      ],
+      "homeType": "Academy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Metropolitan_police_academy_fuchu_tokyo_japan_2009.JPG"
+    },
+    {
+      "id": 3,
+      "address": "183 Spirited Away",
+      "city": "Aburaya",
+      "state": "JP",
+      "rooms": 2,
+      "price": 700,
+      "floorSpace": 110,
+      "extras": [
+        "pool",
+        "basement",
+        "gym"
+      ],
+      "homeType": "Bathhouse",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450834169-9467e5eab1e9ede6a45cb83abf41ab56.jpeg"
+    },
+    {
+      "id": 4,
+      "address": "1855 Kiki Cottage",
+      "city": "Majo",
+      "state": "JP",
+      "rooms": 2,
+      "price": 400,
+      "floorSpace": 90,
+      "extras": [
+        "basement"
+      ],
+      "homeType": "Cottage",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450839009-f9bf204c664b0498f9d288b9857f071d.jpeg"
+    },
+    {
+      "id": 5,
+      "address": "135 xxxHolic Way",
+      "city": "Yuuko",
+      "state": "JP",
+      "rooms": 3,
+      "price": 800,
+      "floorSpace": 123,
+      "extras": [
+        "basement"
+      ],
+      "homeType": "Shop",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450940288-80469f704b429404d66a71f5be399040.png"
+    },
+    {
+      "id": 6,
+      "address": "162 Chitanda Ave",
+      "city": "Eru",
+      "state": "JP",
+      "rooms": 2,
+      "price": 400,
+      "floorSpace": 96,
+      "extras": [
+      ],
+      "homeType": "House",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450941930-690b05ff8d78c35d868de36d63812b99.jpeg"
+    },
+    {
+      "id": 7,
+      "address": "1764 Rockbell Auto St",
+      "city": "Pinako",
+      "state": "JP",
+      "rooms": 6,
+      "price": 970,
+      "floorSpace": 105,
+      "extras": [
+        "basement"
+      ],
+      "homeType": "House",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450943087-a35fa949ae29d1bc78eca3d772be4fbd.png"
+    },
+    {
+      "id": 8,
+      "address": "140 Amasawa St",
+      "city": "Seiji",
+      "state": "JP",
+      "rooms": 3,
+      "price": 480,
+      "floorSpace": 105,
+      "extras": [
+        "basement"
+      ],
+      "homeType": "Shop",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1450943884-eaf35084206bdd4166a9b3f028d939d6.jpeg"
+    },
+    {
+      "id": 9,
+      "address": "158 Glassdoor",
+      "city": "Touko",
+      "state": "JP",
+      "rooms": 6,
+      "price": 2000,
+      "floorSpace": 140,
+      "extras": [
+        "basement",
+        "gym"
+      ],
+      "homeType": "House",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1451293535-b7f363fa77cbae4e9e0c62c4b97c41a8.png"
+    },
+    {
+      "id": 10,
+      "address": "19 Inyuasha Way",
+      "city": "Kagome",
+      "state": "JP",
+      "rooms": 4,
+      "price": 700,
+      "floorSpace": 100,
+      "extras": [
+        "basement"
+      ],
+      "homeType": "House",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1451296115-fdb0f16b456b55fc59e835de7732fe5d.jpeg"
+    },
+    {
+      "id": 11,
+      "address": "148 Citrus Turn",
+      "city": "Cytro",
+      "state": "JP",
+      "rooms": 4,
+      "price": 800,
+      "floorSpace": 96,
+      "extras": [
+        "basement"
+      ],
+      "homeType": "House",
+      "image": "https://resources.realestate.co.jp/wp-content/uploads/2018/04/Abandoned-House-in-Japan-850x500.jpg"
+    },
+    {
+      "id": 12,
+      "address": "1723 Haruhi St",
+      "city": "Suzumiya",
+      "state": "JP",
+      "rooms": 5,
+      "price": 1000,
+      "floorSpace": 112,
+      "extras": [
+        "basement"
+      ],
+      "homeType": "House",
+      "image": "https://resources.realestate.co.jp/wp-content/uploads/2016/06/New-House-Japan-1-1020x500.jpg"
+    }
+  ]
 }
+
+
+
+
+
+
+
+
+
+
